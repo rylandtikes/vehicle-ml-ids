@@ -1,0 +1,17 @@
+{
+    "BENIGN": 80.3,
+    "DoS Hulk": 8.16,
+    "PortScan": 5.61,
+    "DDoS": 4.52,
+    "DoS GoldenEye": 0.36,
+    "FTP-Patator": 0.28,
+    "SSH-Patator": 0.21,
+    "DoS slowloris": 0.2,
+    "DoS Slowhttptest": 0.19,
+    "Bot": 0.07,
+    "Web Attack \ufffd Brute Force": 0.05,
+    "Web Attack \ufffd XSS": 0.02,
+    "Infiltration": 0.0,
+    "Web Attack \ufffd Sql Injection": 0.0,
+    "Heartbleed": 0.0
+}
