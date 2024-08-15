@@ -1,0 +1,265 @@
+Filename: logisticregression_classification_report.json
+{
+    "0": {
+        "precision": 0.9428871522400387,
+        "recall": 0.8515922287616158,
+        "f1-score": 0.8949173559169997,
+        "support": 557646.0
+    },
+    "1": {
+        "precision": 0.864693283630894,
+        "recall": 0.9484170961506045,
+        "f1-score": 0.9046221369280056,
+        "support": 557646.0
+    },
+    "accuracy": 0.9000046624561101,
+    "macro avg": {
+        "precision": 0.9037902179354664,
+        "recall": 0.9000046624561102,
+        "f1-score": 0.8997697464225027,
+        "support": 1115292.0
+    },
+    "weighted avg": {
+        "precision": 0.9037902179354664,
+        "recall": 0.9000046624561101,
+        "f1-score": 0.8997697464225026,
+        "support": 1115292.0
+    }
+}
+
+Filename: mlp_classification_report.json
+{
+    "0": {
+        "precision": 0.993767782143341,
+        "recall": 0.9602059370998806,
+        "f1-score": 0.9766986271260485,
+        "support": 557646.0
+    },
+    "1": {
+        "precision": 0.9615059698618683,
+        "recall": 0.9939782586085079,
+        "f1-score": 0.9774725008266285,
+        "support": 557646.0
+    },
+    "accuracy": 0.9770920978541943,
+    "macro avg": {
+        "precision": 0.9776368760026046,
+        "recall": 0.9770920978541942,
+        "f1-score": 0.9770855639763385,
+        "support": 1115292.0
+    },
+    "weighted avg": {
+        "precision": 0.9776368760026047,
+        "recall": 0.9770920978541943,
+        "f1-score": 0.9770855639763385,
+        "support": 1115292.0
+    }
+}
+
+Filename: traffic_distribution.json
+{
+    "BENIGN": 80.3003663702,
+    "DoS Hulk": 8.162980532,
+    "PortScan": 5.614427025,
+    "DDoS": 4.5227348438,
+    "DoS GoldenEye": 0.3636147824,
+    "FTP-Patator": 0.2804210767,
+    "SSH-Patator": 0.2083198651,
+    "DoS slowloris": 0.2047518973,
+    "DoS Slowhttptest": 0.1942599522,
+    "Bot": 0.0694517305,
+    "Web Attack \ufffd Brute Force": 0.0532369064,
+    "Web Attack \ufffd XSS": 0.0230328221,
+    "Infiltration": 0.0012717509,
+    "Web Attack \ufffd Sql Injection": 0.0007418547,
+    "Heartbleed": 0.0003885906
+}
+
+Filename: randomforest_classification_report.json
+{
+    "0": {
+        "precision": 0.993940253593654,
+        "recall": 0.9927068426923173,
+        "f1-score": 0.9933231652610802,
+        "support": 557646.0
+    },
+    "1": {
+        "precision": 0.9927158817777045,
+        "recall": 0.9939477733185569,
+        "f1-score": 0.9933314456121235,
+        "support": 557646.0
+    },
+    "accuracy": 0.9933273080054371,
+    "macro avg": {
+        "precision": 0.9933280676856793,
+        "recall": 0.9933273080054371,
+        "f1-score": 0.9933273054366019,
+        "support": 1115292.0
+    },
+    "weighted avg": {
+        "precision": 0.9933280676856793,
+        "recall": 0.9933273080054371,
+        "f1-score": 0.9933273054366017,
+        "support": 1115292.0
+    }
+}
+
+Filename: svm_classification_report.json
+{
+    "0": {
+        "precision": 0.9829643034845834,
+        "recall": 0.8785735036205765,
+        "f1-score": 0.9278419044192147,
+        "support": 557646.0
+    },
+    "1": {
+        "precision": 0.8902309732390074,
+        "recall": 0.9847734942956643,
+        "f1-score": 0.9351186959031565,
+        "support": 557646.0
+    },
+    "accuracy": 0.9316734989581203,
+    "macro avg": {
+        "precision": 0.9365976383617953,
+        "recall": 0.9316734989581203,
+        "f1-score": 0.9314803001611855,
+        "support": 1115292.0
+    },
+    "weighted avg": {
+        "precision": 0.9365976383617953,
+        "recall": 0.9316734989581203,
+        "f1-score": 0.9314803001611855,
+        "support": 1115292.0
+    }
+}
+
+Filename: knn_classification_report.json
+{
+    "0": {
+        "precision": 0.8742858309488437,
+        "recall": 0.9983125495385962,
+        "f1-score": 0.9321918955123912,
+        "support": 557646.0
+    },
+    "1": {
+        "precision": 0.9980335939883562,
+        "recall": 0.8564519426302708,
+        "f1-score": 0.9218382063417309,
+        "support": 557646.0
+    },
+    "accuracy": 0.9273822460844335,
+    "macro avg": {
+        "precision": 0.9361597124686,
+        "recall": 0.9273822460844334,
+        "f1-score": 0.927015050927061,
+        "support": 1115292.0
+    },
+    "weighted avg": {
+        "precision": 0.9361597124686,
+        "recall": 0.9273822460844335,
+        "f1-score": 0.927015050927061,
+        "support": 1115292.0
+    }
+}
+
+Filename: mlp_confusion_matrix.json
+[
+    [
+        535455,
+        22191
+    ],
+    [
+        3358,
+        554288
+    ]
+]
+
+Filename: naivebayes_classification_report.json
+{
+    "0": {
+        "precision": 0.9734818365315644,
+        "recall": 0.3139446889245148,
+        "f1-score": 0.4747757581510132,
+        "support": 557646.0
+    },
+    "1": {
+        "precision": 0.5910259521322825,
+        "recall": 0.9914479795425772,
+        "f1-score": 0.740576478853713,
+        "support": 557646.0
+    },
+    "accuracy": 0.652696334233546,
+    "macro avg": {
+        "precision": 0.7822538943319235,
+        "recall": 0.652696334233546,
+        "f1-score": 0.6076761185023631,
+        "support": 1115292.0
+    },
+    "weighted avg": {
+        "precision": 0.7822538943319235,
+        "recall": 0.652696334233546,
+        "f1-score": 0.607676118502363,
+        "support": 1115292.0
+    }
+}
+
+Filename: randomforest_confusion_matrix.json
+[
+    [
+        553579,
+        4067
+    ],
+    [
+        3375,
+        554271
+    ]
+]
+
+Filename: knn_confusion_matrix.json
+[
+    [
+        556705,
+        941
+    ],
+    [
+        80049,
+        477597
+    ]
+]
+
+Filename: logisticregression_confusion_matrix.json
+[
+    [
+        474887,
+        82759
+    ],
+    [
+        28765,
+        528881
+    ]
+]
+
+Filename: svm_confusion_matrix.json
+[
+    [
+        489933,
+        67713
+    ],
+    [
+        8491,
+        549155
+    ]
+]
+
+Filename: naivebayes_confusion_matrix.json
+[
+    [
+        175070,
+        382576
+    ],
+    [
+        4769,
+        552877
+    ]
+]
+
